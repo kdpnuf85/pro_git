@@ -1,3 +1,6 @@
 Here is the first edit.
 
 Here is the second edit.  And some more text here.
+
+Here is the 3rd edit.  I want to undo these changes.
+
